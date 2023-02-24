@@ -8,6 +8,7 @@
   "author": "jae-zero",
   "license": "MIT",
   "devDependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.10.0"
   }
